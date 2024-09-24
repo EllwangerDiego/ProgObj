@@ -1,0 +1,1 @@
+Escolha = int(input("Digite aqui a opção desejada: "))
